@@ -1,4 +1,4 @@
-package org.example.controller;
+package org.piotrBa.controller;
 
 
 import org.springframework.web.bind.annotation.*;

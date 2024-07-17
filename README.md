@@ -15,7 +15,7 @@ The project folder also includes a `template.yml` file. You can use this [SAM](h
 ## Building the project
 You can use the SAM CLI to quickly build the project
 ```bash
-$ mvn archetype:generate -DartifactId=DemoApp-lambda -DarchetypeGroupId=com.amazonaws.serverless.archetypes -DarchetypeArtifactId=aws-serverless-jersey-archetype -DarchetypeVersion=2.0.3 -DgroupId=org.example -Dversion=1.0-SNAPSHOT -Dinteractive=false
+$ mvn archetype:generate -DartifactId=DemoApp-lambda -DarchetypeGroupId=com.amazonaws.serverless.archetypes -DarchetypeArtifactId=aws-serverless-jersey-archetype -DarchetypeVersion=2.0.3 -DgroupId=org.piotrBa -Dversion=1.0-SNAPSHOT -Dinteractive=false
 $ cd DemoApp-lambda
 $ sam build
 Building resource 'DemoappLambdaFunction'

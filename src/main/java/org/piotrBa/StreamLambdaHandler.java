@@ -1,4 +1,4 @@
-package org.example;
+package org.piotrBa;
 
 
 import com.amazonaws.serverless.exceptions.ContainerInitializationException;
