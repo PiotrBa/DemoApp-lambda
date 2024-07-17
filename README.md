@@ -1,4 +1,4 @@
-# My firs lambda app
+# My first lambda app
 
 # DemoApp-lambda serverless API
 The DemoApp-lambda project, created with [`aws-serverless-java-container`](https://github.com/aws/serverless-java-container).
