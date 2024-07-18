@@ -1,4 +1,4 @@
-# My first lambda app
+# My first AWS Lambda app
 
 Here is a screenshot of my project:
 
