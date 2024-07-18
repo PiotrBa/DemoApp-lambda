@@ -2,7 +2,7 @@
 
 Here is a screenshot of my project:
 
-![Screenshot](Desktop/Projects/DemoApp-lambda/Screenshot)
+![Screenshot](https://github.com/PiotrBa/DemoApp-lambda/blob/main/Screenshot.png)
 
 # DemoApp-lambda serverless API
 The DemoApp-lambda project, created with [`aws-serverless-java-container`](https://github.com/aws/serverless-java-container).
