@@ -1,9 +1,5 @@
 # My first AWS Lambda app
 
-Here is a screenshot of my project:
-
-![Screenshot](https://github.com/PiotrBa/DemoApp-lambda/blob/main/Screenshot.png)
-
 
 ### How it works
 
@@ -11,6 +7,12 @@ Here is a screenshot of my project:
 2. **The API Gateway forwards the request** to the Lambda function.
 3. **Lambda executes the application code** and returns the list of cars.
 4. **The API Gateway returns the response** to the user.
+
+
+Here is a screenshot of my project:
+
+![Screenshot](https://github.com/PiotrBa/DemoApp-lambda/blob/main/Screenshot.png)
+
 
 ### Short description
 
