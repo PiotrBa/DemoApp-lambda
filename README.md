@@ -1,6 +1,5 @@
 # My first AWS Lambda app
 
-
 ### How it works
 
 1. **The user sends a GET request** to the API Gateway.
