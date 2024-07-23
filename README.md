@@ -7,6 +7,8 @@
 3. **Lambda executes the application code** and returns the list of cars.
 4. **The API Gateway returns the response** to the user.
 
+I invite you to test it at the link: https://i6rdrepy58.execute-api.us-east-1.amazonaws.com/production/cars
+
 
 Here is a screenshot of my project:
 
